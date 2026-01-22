@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SQL</b>
-  - [Apply filters to SQL queries](https://github.com/cyphercrystal/LABURL)
+  - [Apply filters to SQL queries](https://github.com/cyphercrystal/Cybersecurity-Projects/blob/dcd62f69f3f1dd70fb34e6f96ca4f6b082198b56/Apply%20filters%20to%20SQL%20queries.docx)
  
 - <b>Linux</b>
   - [File permissions in Linux](https://github.com/cyphercrystal/LABURL)
