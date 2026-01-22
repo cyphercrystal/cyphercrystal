@@ -6,13 +6,13 @@
   - [Apply filters to SQL queries](https://github.com/cyphercrystal/Cybersecurity-Projects/blob/cd804bae7b3860ce2057cc5344ae2d86c58fba74/Apply%20filters%20to%20SQL%20queries.pdf)
  
 - <b>Linux</b>
-  - [File permissions in Linux](https://github.com/cyphercrystal/LABURL)
+  - [File permissions in Linux](https://github.com/cyphercrystal/Cybersecurity-Projects/blob/cd804bae7b3860ce2057cc5344ae2d86c58fba74/File%20permissions%20in%20Linux%20.pdf)
  
 - <b>Incident handling</b>
-  - [Incident handler's journal](https://github.com/cyphercrystal/LABURL)
+  - [Incident handler's journal](https://github.com/cyphercrystal/Cybersecurity-Projects/blob/cd804bae7b3860ce2057cc5344ae2d86c58fba74/Incident-handler-s-journal-.pdf)
  
 - <b>Reports</b>
-  - [Vulnerability assessment report](https://github.com/cyphercrystal/LABURL)
+  - [Vulnerability assessment report](https://github.com/cyphercrystal/Cybersecurity-Projects/blob/cd804bae7b3860ce2057cc5344ae2d86c58fba74/Vulnerability-assessment-report-1.pdf)
  
 <h2>📜 Certifications:</h2>
   
