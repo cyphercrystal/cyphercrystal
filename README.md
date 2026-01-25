@@ -1,6 +1,6 @@
 ![Cyber Rainbow](CyberRainbow.PNG)
 
-<h1>Hi, I'm Crystal! <br/>  <a href="https://www.linkedin.com/in/crystal-moussouris-35ba95266">Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Crystal! <br/>  <a href="https://www.linkedin.com/in/crystalmoussouris">Aspiring Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
