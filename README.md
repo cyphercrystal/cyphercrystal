@@ -29,6 +29,8 @@
 
   - Assets, Threats, and Vulnerabilities &nbsp; <a href="https://coursera.org/share/d3767c748d56616991ed5902c1ae6701" target="_blank">Coursera Certificate</a>
 
+  - Sound the Alarm: Detection and Response &nbsp; <a href="https://coursera.org/share/e8491a6f5ee9b8a5eb5934357d784cd3" target="_blank">Coursera Certificate</a>
+
   
 <h2> 🤳 Connect with me:</h2>
 
